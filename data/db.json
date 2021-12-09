@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "SmartData Collective",
+      "body": "SmartData Collective is a community site focused on trends in business intelligence and data management. Similar to Data Science Central, it also features insights into data science through contributions by industry experts. Where Data Science Central focuses directly on data science as a whole, SmartData Collective looks at the wider field and how data science can intersect with business.",
+      "author": "Granville",
+      "id": 2
+    },
+    {
+      "title": "No Free Hunch!",
+      "body": "This blog is slightly different than the others, offering a look directly into the minds of data scientists, as well as tutorials and news. This is the blog of the data science website Kaggle, which hosts data science projects and competitions that challenges data scientists to produce the best models for featured data sets. Organizations can post their data problems with a prize amount and data professionals will enter to solve it. Crowdsourcing ensures that the experiments are innovative and interesting—and offer a lot of perspectives to learn from. Over 200 competitions have run, including high profile ones like improving Microsoft Kinect gesture recognition, improving the search for the Higgs boson at CERN, and the notorious Heritage Health $3 million award for improving predictions regarding which patients will need to visit hospitals. Kaggle’s official blog goes deeper into these competitions, offering interviews with the winners to discuss their approach to solving the data science problems. The blog also features news and tutorials for all levels of data science enthusiasts.",
+      "author": "Kaggle",
+      "id": 3
+    },
+    {
+      "title": "insideBIGDATA",
+      "body": "InsideBIGDATA focuses on the machine learning side of data science. It covers big data in IT and business, machine learning, deep learning, and artificial intelligence. Guest features offer insight into industry perspectives, while news and Editor’s Choice articles highlight important goings-on in the field. All the articles are neatly categorized by topic to zero in on any subject in particular. The blog also maintains a host of resources for events, jobs, and research reports, and more. This is a resource for anyone wanting to stay up to date with machine learning.",
+      "author": "Mario",
+      "id": 4
+    },
+    {
+      "title": "Dataconomy",
+      "body": "Dataconomy is another resource for prospective data scientists. It features the usual big data news and tech trends as well as editorials from industry experts. But what sets it apart from the other data science hubs is its resources for building a career in data science. The site offers a free IT research library and beginner’s guides to get started. For those already in the industry and looking to advance, it also has a job board and candidate database.",
+      "author": "Yoshi",
+      "id": 5
+    }
+  ]
+}
