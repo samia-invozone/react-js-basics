@@ -6,7 +6,7 @@ const useFetch = (url) => {
     const [error, setError] = useState(null);
     useEffect(()=>{
         const abortCont = new AbortController();
-        setTimeout(()=>{
+        
           axios.get(url,{signal:abortCont.signal})
               .then(res=>{
                   if(res.status!==200)
@@ -28,7 +28,7 @@ const useFetch = (url) => {
                     setData(null);
                   }
               })
-        },1000)
+        
         return ()=> abortCont.abort();
       },[url]);
       return {data, isPending, error}
